@@ -2,7 +2,7 @@
 
 A quantum mechanics visualizer written in C. It computes and renders 2D cross-sections of hydrogen electron orbital probability densities in real-time using SDL2.
 
-![Demo Visual](demo.mp4)
+**Demo:** [Open `demo.gif` in the repository](demo.gif)
 
 ---
 
@@ -173,7 +173,7 @@ Both polynomial evaluators use stable **recurrence relations** rather than close
 ```text
 hydrogen-orbitals/
 ├── src/
-│   └── main.c          # Core simulation logic and SDL2 rendering pipeline
-├── demo.mp4            # Video demonstration of the visualizer loop
-└── README.md           # Documentation
+│   └── main.c
+├── demo.gif
+└── README.md
 ```
