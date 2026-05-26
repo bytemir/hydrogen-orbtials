@@ -1,0 +1,3 @@
+/home/emir/Desktop/hydrogen-orbtials/build/CMakeFiles/HydrogenOrbitals.dir
+/home/emir/Desktop/hydrogen-orbtials/build/CMakeFiles/edit_cache.dir
+/home/emir/Desktop/hydrogen-orbtials/build/CMakeFiles/rebuild_cache.dir

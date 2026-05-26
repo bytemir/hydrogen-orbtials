@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.10)
+project(HydrogenOrbitals C) 
+set(CMAKE_C_STANDARD 11)
+find_package(SDL2 CONFIG REQUIRED)
+file(GLOB SOURCES "src/*.c")
+add_executable(HydrogenOrbitals ${SOURCES})
+target_link_libraries(HydrogenOrbitals PRIVATE SDL2::SDL2)
