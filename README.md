@@ -8,7 +8,7 @@ A quantum mechanics visualizer written in C. It computes and renders 2D cross-se
 
 ### Probability Density
 
-For each screen pixel, the code evaluates the probability density in the **$x$–$z$ plane** (a 2D slice through the 3D orbital with $y = 0$):
+For each screen pixel, the code evaluates the probability density in the **x–z plane** (a 2D slice through the 3D orbital with y = 0):
 
 $$
 P(x, z) = \left|\Psi_{n,l,m}(r, \theta, \phi)\right|^2, \qquad r = \sqrt{x^2 + z^2}
